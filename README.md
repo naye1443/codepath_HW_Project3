@@ -1,10 +1,10 @@
 # Project 3 - Kali
 
-Time spent: **X** hours spent in total
+Time spent: **1.5** hours spent in total
 
 **Homework Instructions**: 
 
-- [ ] Create a GIF recording of you running the following command block in your Kali Terminal. Copy it to a text editor first and **replace the first 2 variables, name and univ, with your real name and college name**, then copy/paste the code block into a Terminal. 
+- [x] Create a GIF recording of you running the following command block in your Kali Terminal. Copy it to a text editor first and **replace the first 2 variables, name and univ, with your real name and college name**, then copy/paste the code block into a Terminal. 
 
 ```bash
 name="FirstName LastName"
@@ -18,6 +18,10 @@ Save the file as **screenfetch.gif**.
 
 **Challenges and Problems**: 
 
-### Running screenfetch (PUT YOUR GIF BELOW)
+### Running screenfetch
 
-<img src="screenfetch.gif" alt="Running screenfetch">
+![alt text](./KaliProjectName%26Uni.gif)
+
+### Running Starting and Stopping of Kali Linux instance
+
+![alt text](./KaliDockerCreation.gif)
